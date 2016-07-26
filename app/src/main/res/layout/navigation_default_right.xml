@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl_left"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/iv_default_right"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:src="@mipmap/apk_all_top_nav"
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="@dimen/margin_10_dp"/>
+
+</RelativeLayout>

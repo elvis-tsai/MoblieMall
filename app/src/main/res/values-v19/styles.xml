@@ -1,0 +1,7 @@
+<resources>
+    <style name="ImageTranslucentTheme" parent="AppTheme">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:fitsSystemWindows">true</item>
+    </style>
+
+</resources>

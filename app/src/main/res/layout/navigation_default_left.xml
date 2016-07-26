@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl_left"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/margin_12_dp">
+
+    <ImageView
+        android:id="@+id/iv_default_left"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:src="@mipmap/apk_all_top_nav"
+        android:layout_centerVertical="true"/>
+
+</RelativeLayout>

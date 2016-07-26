@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="tabbar_content_bg">#10000000</color>
+
+    <color name="tabbar_line_color">#DEE1E3</color>
+
+    <color name="tabbar_text_press_color">#FF8200</color>
+    <color name="tabbar_text_normal_color">#585858</color>
+    <color name="navigation_background">#FF5793</color>
+
+    <color name="tabbar_item_bg_color">#11000000</color>
+
+    <color name="white_a">#ffffffff</color>
+    <color name="red_a">#ffff87a0</color>
+    <color name="red_b">#ffff5793</color>
+
+    <color name="publish_text_color">#ff888888</color>
+    <color name="publish_text_color_up">#ccfff000</color>
+
+    <color name="product_item_text_color">#404040</color>
+</resources>
